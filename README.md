@@ -1,4 +1,4 @@
 # Cartabilidade
-Jogo de cartas no windows forms
+Jogo de cartas com windows forms
 
 <img src="pre game cards.png">
