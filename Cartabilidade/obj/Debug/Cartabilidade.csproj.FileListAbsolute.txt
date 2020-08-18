@@ -1,0 +1,177 @@
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.csprojAssemblyReference.cache
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmControle.resources
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.cache
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\lance\source\repos\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmControle.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.Form4.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSetas.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmEspada.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSimples.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqClicks.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FormMenu.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSegue.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmOpcoes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmSobre.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmRecordes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade\Cartabilidade\obj\Debug\Cartabilidade.FrmTutorial.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmControle.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSimples.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.Form4.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSetas.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqClicks.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmEspada.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FormMenu.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSegue.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmOpcoes.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmRecordes.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmSobre.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmTutorial.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.Cache
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.pdb
+C:\Users\081180004\Desktop\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.csprojResolveAssemblyReference.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmControle.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSimples.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.Form4.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSetas.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqClicks.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmEspada.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSegue.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmOpcoes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmRecordes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmSobre.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmTutorial.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.frmLogin.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9\Cartabilidade\obj\Debug\Cartabilidade.FrmMenu.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.frmLogin.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmControle.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSimples.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.Form4.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSetas.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqClicks.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmMenu.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSegue.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmOpcoes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmRecordes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmSobre.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmTutorial.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidadev0.9.9\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5Espada.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.frmLogin.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSimples.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.Form4.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSetas.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqClicks.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5Espada.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmMenu.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSegue.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmOpcoes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmRecordes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmSobre.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmTutorial.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmJogo.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.frmLogin.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmJogo.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSimples.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.Form4.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSetas.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqClicks.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5Espada.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmMenu.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSegue.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmOpcoes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmRecordes.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmSobre.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.FrmTutorial.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Cartabilidade  v1.0\Cartabilidade\obj\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\bin\Debug\Cartabilidade.exe.config
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\bin\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\bin\Debug\Cartabilidade.pdb
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.csprojAssemblyReference.cache
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.frmLogin.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmJogo.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSimples.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.Form4.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSetas.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmCarta.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqClicks.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmAtq5Espada.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmMenu.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmAtqSegue.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmOpcoes.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmRecordes.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmSobre.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.FrmTutorial.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.Properties.Resources.resources
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.csproj.GenerateResource.cache
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.exe
+C:\Users\lance\Desktop\progames\Forms\Compilado 2\Cartabilidade para compilado\Cartabilidade\obj\Debug\Cartabilidade.pdb

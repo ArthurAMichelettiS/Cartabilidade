@@ -1,0 +1,31 @@
+Arth|senha|2|2|True
+Outro|cadastro|2|1|False
+Nataniel|josias|1|2|False
+Arthur|senha|2|2|False
+Feth|password|1|2|False
+b|b|0|2|False
+Jogador2|a|0|2|false
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+Jogador2|a|0|2|False
+The Tru|a|0|2|false
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+Jogador|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False
+The Tru|a|0|2|False

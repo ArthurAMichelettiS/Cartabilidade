@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E0DDA91-CCD7-4F64-B855-1109A645FEC7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cartabilidade</RootNamespace>
+    <AssemblyName>Cartabilidade</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FmrLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrLogin.designer.cs">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJogo.Designer.cs">
+      <DependentUpon>FrmJogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtq5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtq5.designer.cs">
+      <DependentUpon>FrmAtq5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtqSimples.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtqSimples.designer.cs">
+      <DependentUpon>FrmAtqSimples.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtqSimplesMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtqSimplesMove.designer.cs">
+      <DependentUpon>FrmAtqSimplesMove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtqSetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtqSetas.Designer.cs">
+      <DependentUpon>FrmAtqSetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCarta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCarta.Designer.cs">
+      <DependentUpon>FrmCarta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtqClicks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtqClicks.Designer.cs">
+      <DependentUpon>FrmAtqClicks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtq5Espada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtq5Espada.designer.cs">
+      <DependentUpon>FrmAtq5Espada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenu.designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAtqSegue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAtqSegue.Designer.cs">
+      <DependentUpon>FrmAtqSegue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOpcoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOpcoes.Designer.cs">
+      <DependentUpon>FrmOpcoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRecordes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRecordes.Designer.cs">
+      <DependentUpon>FrmRecordes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSobre.designer.cs">
+      <DependentUpon>FrmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTutorial.Designer.cs">
+      <DependentUpon>FrmTutorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DadosOpcoes.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FmrLogin.resx">
+      <DependentUpon>FmrLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJogo.resx">
+      <DependentUpon>FrmJogo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtq5.resx">
+      <DependentUpon>FrmAtq5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtqSimples.resx">
+      <DependentUpon>FrmAtqSimples.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtqSimplesMove.resx">
+      <DependentUpon>FrmAtqSimplesMove.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtqSetas.resx">
+      <DependentUpon>FrmAtqSetas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCarta.resx">
+      <DependentUpon>FrmCarta.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtqClicks.resx">
+      <DependentUpon>FrmAtqClicks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtq5Espada.resx">
+      <DependentUpon>FrmAtq5Espada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAtqSegue.resx">
+      <DependentUpon>FrmAtqSegue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOpcoes.resx">
+      <DependentUpon>FrmOpcoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRecordes.resx">
+      <DependentUpon>FrmRecordes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSobre.resx">
+      <DependentUpon>FrmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTutorial.resx">
+      <DependentUpon>FrmTutorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dodecaedro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drawing %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tempsnip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\SetaA.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quadrado alvo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ESPADA GIRA.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\escudo melhor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RosaEspinhos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espada Cura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo tutorial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tutorial2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tutorial2.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stone wall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stoner wall.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naruto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tubos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ooo.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

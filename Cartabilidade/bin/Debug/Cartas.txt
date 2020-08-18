@@ -1,0 +1,26 @@
+Titulo|Descrição|Raridade/cor|Custo
+Mera Cura|Cura seu herói em 100 de vida|3|1
+Pura Cura|Cura seu herói em 300 de vida|2|2
+Cura Fenomenal|Cura seu herói em 500 de vida|1|3
+Atirador Incontável|Desbloqueia o ataque nivel 2|3|4
+Missil Seguidor|Desbloqueia o ataque nivel 3|2|6
+Destruidor Ordenado|Desbloqueia o ataque nivel 4|1|8
+Golpeador Infital|Desbloqueia o ataque nivel final|0|10
+Reviver Justo|Drena do inimigo o necessario para cura total|0|4
+Espada Afiada|Dobra seu ataque por 2 rodadas|1|2
+Lamina Dupla|Tire 5% da vida do inimigo mas perca 400 da sua|4|2
+Presente Digno|Obtenha 3 ptos magicos|3|0
+Merlin Mirim|Obtenha 5 ptos magicos|0|0
+Presenteal|Compre 2 cartas|1|1
+Presentastico|Compre 3 cartas|0|2
+Nova Chance|Troque todas as cartas da sua mão por novas|3|3
+Loop Temporal|Repete o dano do último ataque você deu|0|1
+Cura Questionavel|50% de chance de te curar 150 ou curar o inimigo|4|1
+Cina Sempre melhor|Dê 50 de dano no inimigo por cada carta já ativada nesta partida|3|2
+Caro Custo|Sacrifique todas as suas cartas e ganhe 75 de cura por cada|2|0
+Custo da guerra|Sacrifique todas as suas cartas e gere 250 de dano por cada|0|0
+Amuleto da Vingança|Cura 15% do dano que você dá (contínuo)|1|5
+Amuleto das rosas|Todo dano recebido é também dado ao seu inimigo (contínuo)|2|4
+Amuleto da Proteção|Defende 50% do dano recebido (contínuo)|0|5
+A Cura|Cura envenenamento|3|1
+O Veneno|Envenena o inimigo por 5 rodadas|1|3
